@@ -27,3 +27,8 @@ Cappuccino
 Mocha
 Latte
 Espresso
+
+Cocoa
+Milkshake
+Kefir
+Lassi
