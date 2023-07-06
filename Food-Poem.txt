@@ -12,3 +12,8 @@ Cucumber
 Tomato
 Lettuce
 Olive
+
+Cauliflower
+Okra
+Courgette
+Pea
